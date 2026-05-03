@@ -38,4 +38,7 @@ Testnet Phase
 ## 📄 Documentation
 - Tokenomics (tokenomics.md)  
 - Roadmap (roadmap.md)  
-- Utility (utility.md)  
+- Utility (utility.md)
+
+- ## 🌐 Part of Kehinde Ecosystem
+This project is part of the Kehinde Ecosystem.
